@@ -13,7 +13,7 @@ import cv2
 def img_write(input_img, name):
     input_img = np.where(input_img==1, 255, 0)
     input_img = input_img.astype("uint8")
-    cv2.imwrite("result/" + name + ".bmp",input_img)
+    cv2.imwrite("img/" + name + ".bmp",input_img)
 
 
 def img_show(input_img):
