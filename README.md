@@ -1,2 +1,2 @@
 # single-pixel-camera-simulation
-https://github.com/kurokuman/single-pixel-camera-simulation/issues/1#issuecomment-455792188
+![image](https://user-images.githubusercontent.com/40331166/51429173-57a5f980-1c4f-11e9-8e39-50dec23bbfc1.png)
