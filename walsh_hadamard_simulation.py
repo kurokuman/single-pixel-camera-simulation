@@ -134,7 +134,7 @@ def main():
     
     img_show(walsh_hadamard)
     
-    name = "walsh_hadamard64"
+    name = "walsh_hadamard" + str(shape)
     img_write(walsh_hadamard, name)
 
 
